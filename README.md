@@ -1,7 +1,5 @@
 # ReactNativeStoreUI
 
-
-<h1>React Native Shop</h1>
 </br><br>
 <div>
   <img align="left" src="github.com/tejasgawali4/ReactNativeStoreUI/blob/main/screenshots/1.png" width="200"/> 
@@ -18,6 +16,6 @@
 
 ## Download APK Here 👇🏻
 
-[![APK download](github.com/tejasgawali4/ReactNativeStoreUI/blob/main/app-debug.apk)
+[Click Here](github.com/tejasgawali4/ReactNativeStoreUI/blob/main/app-debug.apk)
 
 
